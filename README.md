@@ -1,6 +1,4 @@
-Here's the complete code with the emojis removed from the comments:
 
----
 
 # 🚀 **LLM Fine-Tuning with LoRA and qLoRA: A Complete Guide**
 
